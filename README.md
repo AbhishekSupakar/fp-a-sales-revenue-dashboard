@@ -26,3 +26,6 @@ Power BI, Excel, DAX, Power Query
 - Variance analysis
 - Financial reporting
 - Dashboard storytelling
+
+## Screenshot
+Sales & Revenue Forecasting Dashboard (FP&A View).png
