@@ -9,7 +9,7 @@ Simulate a financial planning & analysis use-case to track revenue performance, 
 ##Files
 - `Forecast_Model.xlsx`: Raw dataset with monthly revenue and budget
 - `Sales_Revenue_FP&A_Dashboard.pbix`: Power BI dashboard
-- `Dashboard_Screenshot.png`: Preview of the dashboard
+- `Sales & Revenue Forecasting Dashboard (FP&A View).png`: Preview of the dashboard
 
 ## Tools Used
 Power BI, Excel, DAX, Power Query
@@ -27,6 +27,4 @@ Power BI, Excel, DAX, Power Query
 - Financial reporting
 - Dashboard storytelling
 
-## Screenshot
-![Sales & Revenue Forecasting Dashboard](Sales & Revenue Forecasting Dashboard (FP&A View).png)  
 
