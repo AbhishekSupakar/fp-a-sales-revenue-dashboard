@@ -28,4 +28,5 @@ Power BI, Excel, DAX, Power Query
 - Dashboard storytelling
 
 ## Screenshot
-Sales & Revenue Forecasting Dashboard (FP&A View).png
+![Sales & Revenue Forecasting Dashboard](Sales & Revenue Forecasting Dashboard (FP&A View).png)  
+
